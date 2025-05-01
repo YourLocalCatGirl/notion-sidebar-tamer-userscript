@@ -1,5 +1,6 @@
 <br>
 <h1 align="center"> WIP readme</h1>
+Literally this is my first project and I am a newbie so please be kind :3.
 <p align="center">
 <img src="./images/128.png" style="width:100px;" />
 </p>
