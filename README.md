@@ -1,18 +1,13 @@
 <br>
-
+<h1 align="center"> WIP readme</h1>
 <p align="center">
 <img src="./images/128.png" style="width:100px;" />
 </p>
 
-<h1 align="center">Notion Sidebar Tamer</h1>
+<h1 align="center">Notion Sidebar Tamer Userscript</h1>
 
 <p align="center">
 Disable the hover sidebar in Notion.
-</p>
-
-<p align="center">
-<a href="https://chrome.google.com/webstore/detail/notion-sidebar-tamer/kkjflddbknmcnjodgeobojmdacilodlb">Chrome Web Store</a>
-</p>
 <br>
 
 ## Introduction
@@ -21,13 +16,7 @@ The sidebar in Notion is a great way to navigate between pages, but it can be di
 
 ## Manual Installation
 
-Please refer to Chrome's [documentation](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked) on how to install an extension.
-
-1. Download the repository as a zip file and extract it.
-2. Enter `chrome://extensions` in the address bar.
-3. Turn on developer mode.
-4. Load the extension by clicking on `Load unpacked` and selecting the extracted folder.
-5. Refresh the Notion web page.
+WIP
 
 ## Comparison
 
@@ -46,10 +35,3 @@ Before
 <p align="center">
 After
 </p>
-
-## Roadmap 🚧
-
-- [ ] Migrate to [WXT](https://wxt.dev/) for development
-- [ ] Auto publish to Chrome Web Store
-- [ ] Add support for Firefox
-- [ ] Apply [dom-mutator](https://github.com/growthbook/dom-mutator) to improve the performance and the behavior of the burger button
