@@ -7,7 +7,7 @@
 <h1 align="center">Notion Sidebar Tamer Userscript</h1>
 
 <p align="center">
-Disable the hover sidebar in Notion.
+Fork of chrome extension that disables the Notion sidebar appearing on hover to the userscript that can be used in Firefox. 
 <br>
 
 ## Introduction
