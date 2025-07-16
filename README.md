@@ -12,7 +12,7 @@ Fork of chrome extension that disables the Notion sidebar appearing on hover to 
 
 The sidebar in Notion is a great way to navigate between pages, but it can be distracting when you're working between windows. This Chrome extension disables the appearing on hover of the sidebar.
 
-## Manual Installation
+## Installation
 
 Just install it via [Tampermonkey]([url](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)) or other alternative. 
 
