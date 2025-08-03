@@ -1,5 +1,3 @@
-<br>
-<h1 align="center"> readme</h1>
 <p align="center">
 <img src="./images/128.png" style="width:100px;" />
 </p>
