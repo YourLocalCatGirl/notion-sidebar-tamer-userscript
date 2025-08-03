@@ -3,14 +3,18 @@
 </p>
 
 <h1 align="center">Notion Sidebar Tamer Userscript</h1>
+
 Fork of the Chrome extension [Notion Sidebar Tamer](https://github.com/cyanxiao/notion-sidebar-tamer) by [cyanxiao](https://github.com/cyanxiao), converted into a userscript that works in Firefox-based and Chrome-based browsers.  
 
 This userscript disables the Notion sidebar from appearing on hover without needing to install a full browser extension.
 
 ## Installation
-Just install it via [Tampermonkey]([url](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)) or other alternatives. 
+1. Install **Tampermonkey** or **Violentmonkey** in your browser (or other userscript manager).
+2. [Click here to install the userscript](https://github.com/YourLocalCatGirl/notion-sidebar-tamer-userscript/releases/download/Release/Notion.Sidebar.Tamer.Userscript-0.1.user.js)  
+   (Userscript manager will prompt you to confirm the installation).
+3. Open Notion and the sidebar should no longer appear when you hover over it.
 
-# Information from original repository:
+# Readme from the original repository:
 
 ## Introduction
 The sidebar in Notion is a great way to navigate between pages, but it can be distracting when you're working between windows. This Chrome extension disables the appearing on hover of the sidebar.
