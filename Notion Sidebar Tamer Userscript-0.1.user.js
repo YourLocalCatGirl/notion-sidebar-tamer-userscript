@@ -1,10 +1,9 @@
 // ==UserScript==
 // @name         Notion Sidebar Tamer Userscript
-// @icon       https://github.com/YourLocalCatGirl/notion-sidebar-tamer-userscript/blob/main/images/128.png
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Disable the hover sidebar in Notion. The sidebar in Notion is a great way to navigate between pages, but it can be distracting when you're working between windows. This Chrome extension disables the appearing on hover of the sidebar.
-// @author       yourlocalgirl
+// @author       YourLocalCatGirl
 // @match        https://www.notion.so/*
 // @grant        none
 // ==/UserScript==
