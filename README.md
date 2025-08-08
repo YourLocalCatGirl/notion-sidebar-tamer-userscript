@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./images/128.png" style="width:100px;" />
+<img src="./images/NSTU128.png" style="width:100px;" />
 </p>
 
 <h1 align="center">Notion Sidebar Tamer Userscript</h1>
